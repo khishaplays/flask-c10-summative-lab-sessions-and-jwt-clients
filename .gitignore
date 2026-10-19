@@ -1,0 +1,14 @@
+__pycache__/
+*.pyc
+.venv/
+.env
+*.db
+*.sqlite3
+server/instance/
+.pytest_cache/
+
+# Local test cookies
+server/cookies.txt
+server/user2.txt
+server/demo.txt
+server/student.txt
